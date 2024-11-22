@@ -25,4 +25,4 @@ Para ejecutar el código y ver la comparación de los algoritmos:
 
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu_usuario/algorithm-optimization.git
+   git clone https://github.com/fredyuide/actividad_2_4.git
